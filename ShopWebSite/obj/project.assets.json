@@ -8,26 +8,27 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ca.r215.10\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ca.r215.10\\Desktop\\ㅤ\\ShopWebSite\\ShopWebSite\\ShopWebSite.csproj",
+      "projectUniqueName": "D:\\Code Academy\\Asp.NET\\ShopWebSite\\ShopWebsite\\ShopWebSite\\ShopWebSite.csproj",
       "projectName": "ShopWebSite",
-      "projectPath": "C:\\Users\\ca.r215.10\\Desktop\\ㅤ\\ShopWebSite\\ShopWebSite\\ShopWebSite.csproj",
-      "packagesPath": "C:\\Users\\ca.r215.10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ca.r215.10\\Desktop\\ㅤ\\ShopWebSite\\ShopWebSite\\obj\\",
+      "projectPath": "D:\\Code Academy\\Asp.NET\\ShopWebSite\\ShopWebsite\\ShopWebSite\\ShopWebSite.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\Code Academy\\Asp.NET\\ShopWebSite\\ShopWebsite\\ShopWebSite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ca.r215.10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -63,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

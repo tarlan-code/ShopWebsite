@@ -27,3 +27,27 @@ C:\Users\ca.r215.10\Desktop\ㅤ\ShopWebSite\ShopWebSite\obj\Debug\net6.0\ShopWeb
 C:\Users\ca.r215.10\Desktop\ㅤ\ShopWebSite\ShopWebSite\obj\Debug\net6.0\ShopWebSite.genruntimeconfig.cache
 C:\Users\ca.r215.10\Desktop\ㅤ\ShopWebSite\ShopWebSite\obj\Debug\net6.0\ref\ShopWebSite.dll
 C:\Users\ca.r215.10\Desktop\ㅤ\ShopWebSite\ShopWebSite\bin\Debug\net6.0\ShopWebSite.staticwebassets.runtime.json
+D:\Code Academy\Asp.NET\ShopWebSite\ShopWebsite\ShopWebSite\bin\Debug\net6.0\appsettings.Development.json
+D:\Code Academy\Asp.NET\ShopWebSite\ShopWebsite\ShopWebSite\bin\Debug\net6.0\appsettings.json
+D:\Code Academy\Asp.NET\ShopWebSite\ShopWebsite\ShopWebSite\bin\Debug\net6.0\ShopWebSite.staticwebassets.runtime.json
+D:\Code Academy\Asp.NET\ShopWebSite\ShopWebsite\ShopWebSite\bin\Debug\net6.0\ShopWebSite.exe
+D:\Code Academy\Asp.NET\ShopWebSite\ShopWebsite\ShopWebSite\bin\Debug\net6.0\ShopWebSite.deps.json
+D:\Code Academy\Asp.NET\ShopWebSite\ShopWebsite\ShopWebSite\bin\Debug\net6.0\ShopWebSite.runtimeconfig.json
+D:\Code Academy\Asp.NET\ShopWebSite\ShopWebsite\ShopWebSite\bin\Debug\net6.0\ShopWebSite.dll
+D:\Code Academy\Asp.NET\ShopWebSite\ShopWebsite\ShopWebSite\bin\Debug\net6.0\ShopWebSite.pdb
+D:\Code Academy\Asp.NET\ShopWebSite\ShopWebsite\ShopWebSite\obj\Debug\net6.0\ShopWebSite.csproj.AssemblyReference.cache
+D:\Code Academy\Asp.NET\ShopWebSite\ShopWebsite\ShopWebSite\obj\Debug\net6.0\ShopWebSite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Asp.NET\ShopWebSite\ShopWebsite\ShopWebSite\obj\Debug\net6.0\ShopWebSite.AssemblyInfoInputs.cache
+D:\Code Academy\Asp.NET\ShopWebSite\ShopWebsite\ShopWebSite\obj\Debug\net6.0\ShopWebSite.AssemblyInfo.cs
+D:\Code Academy\Asp.NET\ShopWebSite\ShopWebsite\ShopWebSite\obj\Debug\net6.0\ShopWebSite.csproj.CoreCompileInputs.cache
+D:\Code Academy\Asp.NET\ShopWebSite\ShopWebsite\ShopWebSite\obj\Debug\net6.0\ShopWebSite.MvcApplicationPartsAssemblyInfo.cache
+D:\Code Academy\Asp.NET\ShopWebSite\ShopWebsite\ShopWebSite\obj\Debug\net6.0\ShopWebSite.RazorAssemblyInfo.cache
+D:\Code Academy\Asp.NET\ShopWebSite\ShopWebsite\ShopWebSite\obj\Debug\net6.0\ShopWebSite.RazorAssemblyInfo.cs
+D:\Code Academy\Asp.NET\ShopWebSite\ShopWebsite\ShopWebSite\obj\Debug\net6.0\staticwebassets.build.json
+D:\Code Academy\Asp.NET\ShopWebSite\ShopWebsite\ShopWebSite\obj\Debug\net6.0\staticwebassets.development.json
+D:\Code Academy\Asp.NET\ShopWebSite\ShopWebsite\ShopWebSite\obj\Debug\net6.0\scopedcss\bundle\ShopWebSite.styles.css
+D:\Code Academy\Asp.NET\ShopWebSite\ShopWebsite\ShopWebSite\obj\Debug\net6.0\ShopWebSite.dll
+D:\Code Academy\Asp.NET\ShopWebSite\ShopWebsite\ShopWebSite\obj\Debug\net6.0\refint\ShopWebSite.dll
+D:\Code Academy\Asp.NET\ShopWebSite\ShopWebsite\ShopWebSite\obj\Debug\net6.0\ShopWebSite.pdb
+D:\Code Academy\Asp.NET\ShopWebSite\ShopWebsite\ShopWebSite\obj\Debug\net6.0\ShopWebSite.genruntimeconfig.cache
+D:\Code Academy\Asp.NET\ShopWebSite\ShopWebsite\ShopWebSite\obj\Debug\net6.0\ref\ShopWebSite.dll

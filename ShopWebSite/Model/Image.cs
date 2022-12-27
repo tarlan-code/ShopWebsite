@@ -1,9 +1,10 @@
 ﻿namespace ShopWebSite.Model
 {
-    public class Size
+    public class Image
     {
         public int Id { get; set; }
-        public string Type { get; set; }
+        public string Name { get; set; }
+
         public int ProductId { get; set; }
         public Product Product { get; set; }
     }
