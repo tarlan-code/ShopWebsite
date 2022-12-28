@@ -31,17 +31,17 @@ namespace ShopWebSite.Controllers
             List<Category> categories = new List<Category>()
             {
                 new Category(){Id=1,Name="Clothing",Img="cat-1.jpg",Count=100},
-                new Category(){Id=1,Name="Technology",Img="cat-2.jpg",Count=100},
-                new Category(){Id=1,Name="Shoes",Img="cat-3.jpg",Count=100},
-                new Category(){Id=1,Name="Cosmetic",Img="cat-4.jpg",Count=100},
-                new Category(){Id=1,Name="Shoes",Img="cat-3.jpg",Count=100},
-                new Category(){Id=1,Name="Technology",Img="cat-2.jpg",Count=100},
-                new Category(){Id=1,Name="Cosmetic",Img="cat-4.jpg",Count=100},
-                new Category(){Id=1,Name="Clothing",Img="cat-1.jpg",Count=100},
-                new Category(){Id=1,Name="Cosmetic",Img="cat-4.jpg",Count=100},
-                new Category(){Id=1,Name="Shoes",Img="cat-3.jpg",Count=100},
-                new Category(){Id=1,Name="Clothing",Img="cat-1.jpg",Count=100},
-                new Category(){Id=1,Name="Technology",Img="cat-2.jpg",Count=100},
+                new Category(){Id=2,Name="Technology",Img="cat-2.jpg",Count=100},
+                new Category(){Id=3,Name="Shoes",Img="cat-3.jpg",Count=100},
+                new Category(){Id=4,Name="Cosmetic",Img="cat-4.jpg",Count=100},
+                new Category(){Id=5,Name="Shoes",Img="cat-3.jpg",Count=100},
+                new Category(){Id=6,Name="Technology",Img="cat-2.jpg",Count=100},
+                new Category(){Id=7,Name="Cosmetic",Img="cat-4.jpg",Count=100},
+                new Category(){Id=8,Name="Clothing",Img="cat-1.jpg",Count=100},
+                new Category(){Id=9,Name="Cosmetic",Img="cat-4.jpg",Count=100},
+                new Category(){Id=10,Name="Shoes",Img="cat-3.jpg",Count=100},
+                new Category(){Id=11,Name="Clothing",Img="cat-1.jpg",Count=100},
+                new Category(){Id=12,Name="Technology",Img="cat-2.jpg",Count=100},
 
             };
             ViewData["Categories"] = categories;
@@ -77,7 +77,7 @@ namespace ShopWebSite.Controllers
                 new Product(){Id=6,Name="Apple Watch",Price=399.00m,Images={ (new Image() {Id=6,Name= "product-6.jpg" }) }},
                 new Product(){Id=7,Name="T-shirt",Price=25.00m,Images={ (new Image() {Id=7,Name= "product-7.jpg" }) }},
                 new Product(){Id=8,Name="Face cream",Price=10.00m,Images={ (new Image() {Id=8,Name= "product-8.jpg" } )}},
-                new Product(){Id=8,Name="Chair",Price=120.00m,Images={ (new Image() {Id=9,Name= "product-8.jpg" }) }}
+                new Product(){Id=9,Name="Chair",Price=120.00m,Images={ (new Image() {Id=9,Name= "product-9.jpg" }) }}
 
             };
 
