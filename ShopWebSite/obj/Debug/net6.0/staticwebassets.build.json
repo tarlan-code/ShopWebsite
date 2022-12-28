@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1RK6b+Lga7kBxF6eE/xrgP+i6/sVpc49qUrFGUXnHXQ=",
+  "Hash": "o0mcOpol0A96+pfvG+TqVoOJZcR5ibuxLXL+3FY5za4=",
   "Source": "ShopWebSite",
   "BasePath": "_content/ShopWebSite",
   "Mode": "Default",
@@ -287,6 +287,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\cat-5.jpg"
+    },
+    {
+      "Identity": "D:\\Code Academy\\Asp.NET\\ShopWebSite\\ShopWebsite\\ShopWebSite\\wwwroot\\img\\noimage.jpg",
+      "SourceId": "ShopWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Code Academy\\Asp.NET\\ShopWebSite\\ShopWebsite\\ShopWebSite\\wwwroot\\",
+      "BasePath": "_content/ShopWebSite",
+      "RelativePath": "img/noimage.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\noimage.jpg"
     },
     {
       "Identity": "D:\\Code Academy\\Asp.NET\\ShopWebSite\\ShopWebsite\\ShopWebSite\\wwwroot\\img\\offer-1.jpg",
